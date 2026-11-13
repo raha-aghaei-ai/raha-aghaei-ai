@@ -1,12 +1,12 @@
 # Hi, I'm Raha
 
-I work at the intersection of artificial intelligence research and practical systems.
+I build AI systems that go beyond single-turn interactions—agents that can reason over tasks, use tools, and support multi-step workflows.
 
-My current interests include agentic AI, quantum machine learning, natural language processing, and healthcare applications. Through [Quantum-Superintelligence](https://github.com/Quantum-Superintelligence), I work on research projects, open-source experiments, and technical resources across quantum computing and machine learning.
+My work spans agentic AI, quantum machine learning, natural language processing, and healthcare applications. Through [Quantum-Superintelligence](https://github.com/Quantum-Superintelligence), I contribute to research projects, open-source experiments, and technical resources across quantum computing and machine learning.
 
-I use GitHub to share code, experiments, and work in progress.
+I use GitHub to turn ideas into working systems, document experiments, and share what I learn along the way.
 
-## Areas of interest
+## What I work on
 
 - Agentic AI and tool-using systems
 - Quantum AI and quantum machine learning
