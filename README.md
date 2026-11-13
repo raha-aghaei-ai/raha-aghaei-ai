@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Raha
 
-<!--
-**raha-aghaei-ai/raha-aghaei-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I work at the intersection of artificial intelligence research and practical systems.
 
-Here are some ideas to get you started:
+My current interests include agentic AI, quantum machine learning, natural language processing, and healthcare applications. Through [Quantum-Superintelligence](https://github.com/Quantum-Superintelligence), I work on research projects, open-source experiments, and technical resources across quantum computing and machine learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I use GitHub to share code, experiments, and work in progress.
+
+## Areas of interest
+
+- Agentic AI and tool-using systems
+- Quantum AI and quantum machine learning
+- Natural language processing
+- Healthcare AI
+- Deep learning and research software
+
+## Links
+
+- [Quantum-Superintelligence](https://github.com/Quantum-Superintelligence)
+- [Google Scholar](https://scholar.google.com/citations?user=OOyHUH4AAAAJ&hl=en)
+- [ORCID](https://orcid.org/0009-0001-7889-0328)
+- [Email](mailto:raha.aghaei@outlook.com)
